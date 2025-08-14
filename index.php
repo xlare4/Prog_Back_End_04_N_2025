@@ -6,7 +6,7 @@
     <title>PHP</title>
 </head>
 <body>
-    <h1>Testando php</h1>
+    <h1 style="color:blue">Testando php</h1>
     <?php
     $a="<hr>";
     ?>
