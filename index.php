@@ -8,8 +8,7 @@
 <body>
     <h1>Testando php</h1>
     <?php
-    echo "Comando pelo php $a novo";
+    echo "Comando pelo php novo";
     ?>
-    <h2>Novos comandos </h2>
 </body>
 </html>
