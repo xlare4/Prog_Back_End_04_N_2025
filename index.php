@@ -10,5 +10,6 @@
     <?php
     echo "Comando pelo php $a novo";
     ?>
+    <h2>Novos comandos </h2>
 </body>
 </html>
